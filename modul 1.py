@@ -328,7 +328,7 @@ nama_dict = {
 # membuat dictionary
 dict = {
     "nama"      : "Winnez yntia Nono",
-    "NIM"      : 24241087,
+    "NIM"      : 24241102,
     "Prodi"     : "Pendidikan Teknologi Informasi",
     "mat_kul"    : ['Algoritma dan Pemrograman', 'Struktur Data', 'PBO'],
     "status"    : True,
